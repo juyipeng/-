@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  24 DEC 2024 22:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.21)  24 DEC 2024 22:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -539,12 +539,12 @@ Overfull \hbox (14.74367pt too wide) in paragraph at lines 34--35
 [2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 [3]
-<../pictures/resfigure_E(0.1)_size1.pdf, id=252, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size1.pdf, id=257, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size1.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size1.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size1.pdf  used on input line 120.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_E(0.1)_size1000.pdf, id=253, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size1000.pdf, id=258, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size1000.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size1000.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size1000.pdf  used on input line 121.
@@ -563,32 +563,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has
                                                   \__shipout_drop_firstpage_...
 l.146 
        <../pictures/resfigure_E(0.1)_size1.pdf> <../pictures/resfigure_E(0.1)_size1000.pdf>]
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf, id=326, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf, id=331, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf  used on input line 165.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf, id=327, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf, id=332, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf  used on input line 166.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf, id=328, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf, id=333, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf  used on input line 167.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf, id=329, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf, id=334, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf  used on input line 168.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf, id=330, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf, id=335, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf  used on input line 169.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf, id=331, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf, id=336, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf>
 Package pdftex.def Info: ../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf  used on input line 170.
@@ -606,32 +606,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--171
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../pictures/resfigure_B(100_0.3)_size1.pdf, id=333, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size1.pdf, id=338, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size1.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size1.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size1.pdf  used on input line 185.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_B(100_0.3)_size2.pdf, id=334, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size2.pdf, id=339, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size2.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size2.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size2.pdf  used on input line 186.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_B(100_0.3)_size5.pdf, id=335, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size5.pdf, id=340, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size5.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size5.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size5.pdf  used on input line 187.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_B(100_0.3)_size10.pdf, id=336, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size10.pdf, id=341, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size10.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size10.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size10.pdf  used on input line 188.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_B(100_0.3)_size100.pdf, id=337, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size100.pdf, id=342, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size100.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size100.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size100.pdf  used on input line 189.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_B(100_0.3)_size1000.pdf, id=338, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_B(100_0.3)_size1000.pdf, id=343, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_B(100_0.3)_size1000.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_B(100_0.3)_size1000.pdf>
 Package pdftex.def Info: ../pictures/resfigure_B(100_0.3)_size1000.pdf  used on input line 190.
@@ -652,32 +652,32 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 [6]
-<../pictures/resfigure_P(5)_size1.pdf, id=349, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size1.pdf, id=354, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size1.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size1.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size1.pdf  used on input line 205.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_P(5)_size2.pdf, id=350, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size2.pdf, id=355, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size2.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size2.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size2.pdf  used on input line 206.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_P(5)_size5.pdf, id=351, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size5.pdf, id=356, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size5.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size5.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size5.pdf  used on input line 207.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_P(5)_size10.pdf, id=352, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size10.pdf, id=357, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size10.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size10.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size10.pdf  used on input line 208.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_P(5)_size100.pdf, id=353, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size100.pdf, id=358, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size100.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size100.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size100.pdf  used on input line 209.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_P(5)_size1000.pdf, id=354, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_P(5)_size1000.pdf, id=359, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_P(5)_size1000.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_P(5)_size1000.pdf>
 Package pdftex.def Info: ../pictures/resfigure_P(5)_size1000.pdf  used on input line 210.
@@ -699,22 +699,22 @@ File: ../pictures/resfigure_E(0.1)_size1.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size1.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size1.pdf  used on input line 224.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_E(0.1)_size2.pdf, id=356, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size2.pdf, id=361, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size2.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size2.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size2.pdf  used on input line 225.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_E(0.1)_size5.pdf, id=357, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size5.pdf, id=362, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size5.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size5.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size5.pdf  used on input line 226.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_E(0.1)_size10.pdf, id=358, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size10.pdf, id=363, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size10.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size10.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size10.pdf  used on input line 227.
 (pdftex.def)             Requested size: 155.24895pt x 116.43451pt.
-<../pictures/resfigure_E(0.1)_size100.pdf, id=359, 462.52798pt x 346.89601pt>
+<../pictures/resfigure_E(0.1)_size100.pdf, id=364, 462.52798pt x 346.89601pt>
 File: ../pictures/resfigure_E(0.1)_size100.pdf Graphic file (type pdf)
 <use ../pictures/resfigure_E(0.1)_size100.pdf>
 Package pdftex.def Info: ../pictures/resfigure_E(0.1)_size100.pdf  used on input line 228.
@@ -736,7 +736,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 224--230
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../data/lossLines.pdf, id=361, 462.52798pt x 346.89601pt>
+<../data/lossLines.pdf, id=367, 462.52798pt x 346.89601pt>
 File: ../data/lossLines.pdf Graphic file (type pdf)
 <use ../data/lossLines.pdf>
 Package pdftex.def Info: ../data/lossLines.pdf  used on input line 242.
@@ -744,9 +744,9 @@ Package pdftex.def Info: ../data/lossLines.pdf  used on input line 242.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-(./中心极限定理.bbl
 
-[7])
+
+[7] (./中心极限定理.bbl)
 
 [8]
 
@@ -754,35 +754,35 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.249 \end{document}
+l.256 \end{document}
                      <../pictures/resfigure_U(-sqrt3_sqrt3)_size1.pdf> <../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf> <../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf> <../pictures/resfigure_U(-sqrt3_sqrt3)_size10.pdf> <../pictures/resfigure_U(-sqrt3_sqrt3)_size100.pdf> <../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf>]
 
 [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.249 \end{document}
+l.256 \end{document}
                      <../pictures/resfigure_B(100_0.3)_size1.pdf> <../pictures/resfigure_B(100_0.3)_size2.pdf> <../pictures/resfigure_B(100_0.3)_size5.pdf> <../pictures/resfigure_B(100_0.3)_size10.pdf> <../pictures/resfigure_B(100_0.3)_size100.pdf> <../pictures/resfigure_B(100_0.3)_size1000.pdf>]
 
 [11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.249 \end{document}
+l.256 \end{document}
                      <../pictures/resfigure_P(5)_size1.pdf> <../pictures/resfigure_P(5)_size2.pdf> <../pictures/resfigure_P(5)_size5.pdf> <../pictures/resfigure_P(5)_size10.pdf> <../pictures/resfigure_P(5)_size100.pdf> <../pictures/resfigure_P(5)_size1000.pdf>]
 
 [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.249 \end{document}
+l.256 \end{document}
                      <../pictures/resfigure_E(0.1)_size2.pdf> <../pictures/resfigure_E(0.1)_size5.pdf> <../pictures/resfigure_E(0.1)_size10.pdf> <../pictures/resfigure_E(0.1)_size100.pdf>]
 
 [13
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.249 \end{document}
+l.256 \end{document}
                      <../data/lossLines.pdf>] (./中心极限定理.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
@@ -794,21 +794,21 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
 
 Package rerunfilecheck Info: File `中心极限定理.out' has not changed.
-(rerunfilecheck)             Checksum: 88BF4769A2E26383503B705F0C18DCCC;2010.
+(rerunfilecheck)             Checksum: 9AFEA7EBBAAA61B14DAD11B5509DF91A;2094.
  ) 
 Here is how much of TeX's memory you used:
- 14377 strings out of 473330
- 243715 string characters out of 5723877
- 636338 words of memory out of 5000000
- 36971 multiletter control sequences out of 15000+600000
- 609274 words of font info for 221 fonts, out of 8000000 for 9000
+ 14419 strings out of 473330
+ 244459 string characters out of 5723877
+ 638453 words of memory out of 5000000
+ 37006 multiletter control sequences out of 15000+600000
+ 610354 words of font info for 225 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,9n,88p,1050b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on 中心极限定理.pdf (13 pages, 837807 bytes).
+ 80i,9n,88p,1050b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on 中心极限定理.pdf (13 pages, 851197 bytes).
 PDF statistics:
- 1240 PDF objects out of 1440 (max. 8388607)
- 667 compressed objects within 7 object streams
- 68 named destinations out of 1000 (max. 500000)
- 538 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1256 PDF objects out of 1440 (max. 8388607)
+ 680 compressed objects within 7 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 550 words of extra memory for PDF output out of 10000 (max. 10000000)
 
