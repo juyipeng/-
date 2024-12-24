@@ -1,8 +1,8 @@
-PWD c:/Users/juyip/Desktop/current/中心极限定理/paper
+PWD c:/Users/juyip/Desktop/current/中心极限定理/Central-Limit-Theorem/paper
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/juyip/Desktop/current/中心极限定理/paper/中心极限定理.tex
+INPUT c:/Users/juyip/Desktop/current/中心极限定理/Central-Limit-Theorem/paper/中心极限定理.tex
 OUTPUT 中心极限定理.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -289,6 +289,12 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7b.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6c.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6d.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong81.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+INPUT c:/texlive/2024/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
+INPUT c:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6b.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei60.tfm
@@ -300,12 +306,6 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong5c.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong83.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7f.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong87.tfm
-INPUT c:/texlive/2024/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
-INPUT c:/texlive/2024/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
-INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
-INPUT c:/texlive/2024/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
-INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei51.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei79.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei89.tfm

@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex 中心极限定理"] 1735046239.54436 "中心极限定理.aux" "中心极限定理.bbl" "中心极限定理" 1735046429.49125 0
+["bibtex 中心极限定理"] 1735047567.93573 "中心极限定理.aux" "中心极限定理.bbl" "中心极限定理" 1735047571.46576 0
   "./references.bib" 1734876332 656 9291c4b5392b19a95dc8de685892a8ea ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1734765596 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "中心极限定理.aux" 1735046427 8705 70d4fbdbc01ca3552ac8311f3c8f8bc8 "pdflatex"
+  "中心极限定理.aux" 1735047569 8713 b35f1b19a9262a18e11f64b767b21add "pdflatex"
   (generated)
   "中心极限定理.bbl"
   "中心极限定理.blg"
   (rewritten before read)
-["pdflatex"] 1735046425.63375 "c:/Users/juyip/Desktop/current/中心极限定理/paper/中心极限定理.tex" "中心极限定理.pdf" "中心极限定理" 1735046429.49248 0
+["pdflatex"] 1735047568.43478 "c:/Users/juyip/Desktop/current/中心极限定理/Central-Limit-Theorem/paper/中心极限定理.tex" "中心极限定理.pdf" "中心极限定理" 1735047571.46617 0
   "../data/lossLines.pdf" 1735042379 15075 c4bca62a87ff9bad7199c4a197f696dd ""
   "../pictures/resfigure_B(100_0.3)_size1.pdf" 1734978164 10068 6738564134d1532528ecd9e45b6383ef ""
   "../pictures/resfigure_B(100_0.3)_size10.pdf" 1734978197 11046 c4e405c640e58aac544b0d71e5f5af37 ""
@@ -33,7 +33,7 @@
   "../pictures/resfigure_U(-sqrt3_sqrt3)_size1000.pdf" 1734970315 11213 90908aa2d7a5c537d685a3a04b4b8bab ""
   "../pictures/resfigure_U(-sqrt3_sqrt3)_size2.pdf" 1734970207 10924 b7a5dc237b3b8e91f7964557a5b57c8b ""
   "../pictures/resfigure_U(-sqrt3_sqrt3)_size5.pdf" 1734970216 11114 7d711d0c107f7c86aa4854923393e544 ""
-  "c:/Users/juyip/Desktop/current/中心极限定理/paper/中心极限定理.tex" 1735046424 15909 2aa9411f244d070e820816b9b008858d ""
+  "c:/Users/juyip/Desktop/current/中心极限定理/Central-Limit-Theorem/paper/中心极限定理.tex" 1735047564 15950 48b920360f1e0f872812514858174354 ""
   "c:/Windows/Fonts/msyh.ttc" 1731482061 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/Windows/Fonts/simhei.ttf" 1651842600 9753388 6abc0fcfbaa40600f9cecca3afeb3aa7 ""
   "c:/Windows/Fonts/simsun.ttc" 1731482061 18070492 992f2bdc407dde6953c5ed83ceac9a91 ""
@@ -268,10 +268,10 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734772348 5531417 afafd3ba8f822fda36e3585e3807683b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734772558 3343613 2f1142490d2788bf9d6a3b6c33422883 ""
   "c:/texlive/2024/texmf.cnf" 1734772321 713 e69b156964470283e0530f5060668171 ""
-  "中心极限定理.aux" 1735046427 8705 70d4fbdbc01ca3552ac8311f3c8f8bc8 "pdflatex"
-  "中心极限定理.bbl" 1735046240 540 8ce77292cc7ee3426f3e90c2eaf8df89 "bibtex 中心极限定理"
-  "中心极限定理.out" 1735046427 2010 88bf4769a2e26383503b705f0c18dccc "pdflatex"
-  "中心极限定理.tex" 1735046424 15909 2aa9411f244d070e820816b9b008858d ""
+  "中心极限定理.aux" 1735047569 8713 b35f1b19a9262a18e11f64b767b21add "pdflatex"
+  "中心极限定理.bbl" 1735047568 540 8ce77292cc7ee3426f3e90c2eaf8df89 "bibtex 中心极限定理"
+  "中心极限定理.out" 1735047569 2010 88bf4769a2e26383503b705f0c18dccc "pdflatex"
+  "中心极限定理.tex" 1735047564 15950 48b920360f1e0f872812514858174354 ""
   (generated)
   "中心极限定理.aux"
   "中心极限定理.log"
